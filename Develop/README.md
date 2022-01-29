@@ -20,15 +20,11 @@ Readme Generator with Command-Line for Github
 - NPM
 - Javascript
 
-
-
-
 --------------------
 
 ## Deployed Link
 
 https://deashawnogle.github.io/README-Generator/
-
 
 
 --------------------
