@@ -27,7 +27,12 @@ Readme Generator with Command-Line for Github
 
 ## Deployed Link
 
+https://deashawnogle.github.io/README-Generator/
+
 
 
 --------------------
 
+## Test Video
+
+https://watch.screencastify.com/v/ZxxUpPXSsJfVIHmqJ1aK
