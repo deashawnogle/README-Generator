@@ -4,7 +4,7 @@
 
 ## Image Preview
 
-<img src = "./assets/readme.png">
+<img src = "./images/readme.png">
 
 ------------------
 
