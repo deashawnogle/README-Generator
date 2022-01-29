@@ -32,11 +32,6 @@ const questions = [
         type: "input"
     },
     {
-        message: "Test instruction of the Project.",
-        name: "test",
-        type: "input"
-    },
-    {
         message: "What is your Github account name?",
         name: "github",
         type: "input"
