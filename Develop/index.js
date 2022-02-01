@@ -32,6 +32,12 @@ const questions = [
         type: "input"
     },
     {
+        message: "Please provide test instructions.",
+        name: "test",
+        type: "input",
+        default: "run script - npm run test"
+    },
+    {
         message: "What is your Github account name?",
         name: "github",
         type: "input"
