@@ -1,8 +1,8 @@
-# Readme Generator
+# test
 
   ## License
   ------------------
-  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br>https://opensource.org/licenses/BSD-3-Clause
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>https://opensource.org/licenses/MIT
   
 
   ## Table of Contents
@@ -18,28 +18,28 @@
 
 ##  Description
 ------------------
-Test Project
+test
 
 ## Installation
 ------------------
-Test installation
+test
 
 ## Usage
 ------------------
-test Usage
+test
 
 ## Contribution
 ------------------
-Test Contribution
+test
 
 ## Test
 ------------------
-undefined
+npm run test
 
 ## Contact
 ------------------
-Github account : deashawnogle<br>
-Email : deashawnogle@gmail.com<br>
-Github Repository : <a href="https://github.com/deashawnogle">deashawnogle</a>
+Github account : test<br>
+Email : test<br>
+Github Repository : <a href="https://github.com/test">test</a>
 
 
